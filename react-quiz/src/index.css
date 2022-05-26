@@ -122,3 +122,11 @@ div {
 .disabled-answer {
   pointer-events: none;
 }
+
+.list {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  border :1px solid teal;
+  margin: 10px 10px;
+}
